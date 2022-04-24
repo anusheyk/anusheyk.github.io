@@ -1,0 +1,30 @@
+.background{ 
+	background-color: honeydew;
+	text-align: center;
+	font-size: x-large;
+
+}
+
+.nushbar{ 
+	background-color: lavender;
+}
+
+
+
+.left{
+	background-color: lavender;
+}
+
+
+.right{
+	background-color: purple;
+}
+
+.rightsection{
+	background-color:lightpink;
+
+}
+
+.leftsection{
+	background-color:lightblue;
+}
